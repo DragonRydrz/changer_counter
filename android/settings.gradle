@@ -1,0 +1,3 @@
+rootProject.name = 'change_counter'
+
+include ':app'
